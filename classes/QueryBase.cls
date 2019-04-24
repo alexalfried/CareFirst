@@ -1,6 +1,7 @@
 public without sharing class QueryBase {
 /* SOQL queries */
 // map to cache recordtypeId queries. Used by getRecordTypeId() method KG 12/17
+//update 1 
 public static Map<String,ID> recordTypeIdMap = new Map<String,ID>();
 
 /*
