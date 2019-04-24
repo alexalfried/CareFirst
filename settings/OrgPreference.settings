@@ -61,10 +61,6 @@
         <settingValue>true</settingValue>
     </preferences>
     <preferences>
-        <settingName>ScratchOrgManagementPref</settingName>
-        <settingValue>false</settingValue>
-    </preferences>
-    <preferences>
         <settingName>RemoveThemeBrandBanner</settingName>
         <settingValue>false</settingValue>
     </preferences>
@@ -102,6 +98,10 @@
     </preferences>
     <preferences>
         <settingName>HstsSitesCommunities</settingName>
+        <settingValue>false</settingValue>
+    </preferences>
+    <preferences>
+        <settingName>CompileOnDeploy</settingName>
         <settingValue>false</settingValue>
     </preferences>
     <preferences>

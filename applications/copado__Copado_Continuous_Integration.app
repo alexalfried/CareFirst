@@ -5,7 +5,6 @@
     <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
     <label>Copado Continuous Integration</label>
-    <logo>copado__Copado/copado__Copado_Logo.png</logo>
     <tabs>copado__Org__c</tabs>
     <tabs>copado__Git_Repository__c</tabs>
     <tabs>copado__Continuous_Integration__c</tabs>
