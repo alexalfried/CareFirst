@@ -18,4 +18,5 @@
     <tabs>Getting_Started</tabs>
     <tabs>Project__c</tabs>
     <tabs>Invoice__c</tabs>
+    <tabs>standard-WaveHome</tabs>
 </CustomApplication>
