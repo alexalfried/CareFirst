@@ -2,6 +2,7 @@
 public class AccountOperationsTestQG {
     @isTest static void testAccountHasDefaultDescription() {       
         // Perform test
+        //alex update 5/15
         Test.startTest();
         Account acc = new Account(Name='Test Account');
         Database.SaveResult result = Database.insert(acc);
