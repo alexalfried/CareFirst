@@ -88,6 +88,10 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>AccountOperationsTestEnv</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>AccountOperationsTestQG</apexClass>
         <enabled>true</enabled>
     </classAccesses>
@@ -101,6 +105,14 @@
     </classAccesses>
     <classAccesses>
         <apexClass>AccountOperations_New_Mon</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>AccountOperations_TomTrail3</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>AccountOperations_TomTrail3_Test</apexClass>
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
