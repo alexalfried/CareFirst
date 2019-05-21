@@ -86,6 +86,17 @@
             </valueSetDefinition>
         </valueSet>
     </fields>
+    <fields>
+        <fullName>ValidateCommit__c</fullName>
+        <description>Used to test rhe @validatecommit command when committing metadata</description>
+        <externalId>false</externalId>
+        <label>ValidateCommit</label>
+        <length>25</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <label>Bicycle</label>
     <nameField>
         <label>Bicycle Name</label>
