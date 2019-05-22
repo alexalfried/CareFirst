@@ -28,5 +28,9 @@
             <translation><!-- Tandem --></translation>
         </picklistValues>
     </fields>
+    <fields>
+        <label><!-- ValidateCommit --></label>
+        <name>ValidateCommit__c</name>
+    </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>
