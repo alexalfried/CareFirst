@@ -80,11 +80,19 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>AccountOperationsAF</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>AccountOperationsQG</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
         <apexClass>AccountOperationsTest</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>AccountOperationsTestAF</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
@@ -113,6 +121,10 @@
     </classAccesses>
     <classAccesses>
         <apexClass>AccountOperations_TomTrail3_Test</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>AdeelTest</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
