@@ -4,5 +4,8 @@ Trigger AccountDefaultDescriptionAF on Account (before insert) {
 //Alex update 5/23
     for(Account a : Trigger.New) {
         a = AccountOperationsAF.setDefaultDescription(a);
+        a = AccountOperationsAF.setDefaultURLAF(a);
+        a = AccountOperationsAF.setDefaultPhoneAF(a);
+        a = AccountOperationsAF.setDefaultBillingAddressAF(a);
     }   
 }

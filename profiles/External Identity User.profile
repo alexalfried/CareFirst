@@ -88,6 +88,10 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>AccountOperationsSU</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>AccountOperationsTest</apexClass>
         <enabled>false</enabled>
     </classAccesses>
@@ -101,6 +105,10 @@
     </classAccesses>
     <classAccesses>
         <apexClass>AccountOperationsTestQG</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>AccountOperationsTestSU</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>

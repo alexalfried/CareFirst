@@ -19,4 +19,24 @@ public class AccountOperationsAF {
         
         return a;
     }
+ public static Account setDefaultBillingAddressAF(Account a){//DEV 1
+    a.billingstreet = 'Basauri, 6';
+    a.billingstate = 'Madrid';
+    a.billingpostalcode ='28023';
+    return a;
+}
+public static Account setDefaultShippingAddressAF(Account a){//DEV 1
+    a.shippingstreet = 'Basauri, 6';
+    a.shippingstate = 'Madrid';
+    a.shippingpostalcode ='28023';
+    return a;
+}
+public static Account setDefaultPhoneAF (Account a) {//DEV 1
+a.Phone='688456789'; //DEV1
+return a;
+}
+public static Account setDefaultURLAF(Account a) { //DEV 1
+a.website = 'www.copa.do'; //Dev1
+return a;
+}
 }
