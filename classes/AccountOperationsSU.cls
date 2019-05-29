@@ -2,6 +2,7 @@ public class AccountOperationsSU {
     public static Account setDefaultDescription(Account a) {        
         // If statements must use braces
         //alex update 5/29 1
+        //alex update 5/29 2 update after manual CI run 
         if (a.Description != null) return a;
         else{
              a.Description = 'Default Description';
